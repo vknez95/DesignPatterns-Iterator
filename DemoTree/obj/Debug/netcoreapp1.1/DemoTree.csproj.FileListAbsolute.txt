@@ -1,0 +1,8 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/DemoTree/bin/Debug/netcoreapp1.1/DemoTree.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/DemoTree/bin/Debug/netcoreapp1.1/DemoTree.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/DemoTree/bin/Debug/netcoreapp1.1/DemoTree.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/DemoTree/bin/Debug/netcoreapp1.1/DemoTree.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/DemoTree/bin/Debug/netcoreapp1.1/DemoTree.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/DemoTree/obj/Debug/netcoreapp1.1/DemoTree.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/DemoTree/obj/Debug/netcoreapp1.1/DemoTree.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/DemoTree/obj/Debug/netcoreapp1.1/DemoTree.pdb

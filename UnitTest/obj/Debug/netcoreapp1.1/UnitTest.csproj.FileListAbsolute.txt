@@ -1,0 +1,13 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/UnitTest.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/UnitTest.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/UnitTest.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/UnitTest.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/UnitTest.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/DemoTree.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/bin/Debug/netcoreapp1.1/DemoTree.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/obj/Debug/netcoreapp1.1/UnitTest.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/obj/Debug/netcoreapp1.1/UnitTest.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Iterator/UnitTest/obj/Debug/netcoreapp1.1/UnitTest.pdb
